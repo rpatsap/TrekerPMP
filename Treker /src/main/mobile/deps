@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "react-native-svg-charts": "*",
+    "react-native-svg": "15.2.0",
+    "react-native-responsive-linechart": "*",
+    "react-native-gesture-handler": "~2.16.1",
+    "react-native-chart-kit": "*",
+    "victory-native": "*",
+    "@shopify/react-native-skia": "1.2.3",
+    "react-native-reanimated": "~3.10.1",
+    "victory": "*"
+  }
+}
